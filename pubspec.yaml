@@ -1,0 +1,10 @@
+name: my_app
+version: 0.0.1
+description: my first web application in dart
+author: Dharit Parikh
+environment:
+    sdk: any
+dependencies:
+#    foo: ">1.0.0"
+#dev_dependencies:
+#    unittest: any
